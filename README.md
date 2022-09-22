@@ -2,6 +2,9 @@
 - 👀 I’m interested in ...
      Java,
      Python,
+     react-js,
+     springBoot,
+     android app dev,
      Mysql.
 - 🌱 I’m currently learning ...
       Machine learning and artificial intelligence
