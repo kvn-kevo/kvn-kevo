@@ -1,23 +1,5 @@
-- 👋 Hi, I’m @kvn-kevo
-- 👀 I’m interested in ...
-     Java,
-     Python,
-     react-js,
-     springBoot,
-     android app dev,
-     Mysql.
-- 🌱 I’m currently learning ...
-      Machine learning and artificial intelligence
-- 💞️ I’m looking to collaborate on ...
-      Android development,
-      Ai projects,
-      Database with mysql,
-      Java software development,
-      Python,
-- 📫 How to reach me ...
-     Personal email 'kvnhigenyi@gmail.com'
-     
-<!---
-kvn-kevo/kvn-kevo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+☁️ 6+ years of experience in Java backend development, cloud-native solutions, and DevOps practices.
+🔧 Expertise: Java/Spring Boot, Microservices, Docker, Kubernetes, CI/CD (Jenkins/GitHub Actions), AWS/GCP.
+🖥️ Full-stack proficiency: React, TypeScript, and modern frontend development.
+🚀 Passionate about scalable architectures, automation, and cloud optimization.
+📌 DevOps Focus: Infrastructure as Code (Terraform), observability (Prometheus/Grafana), and agile deployment.
